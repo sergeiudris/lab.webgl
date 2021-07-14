@@ -1,4 +1,4 @@
-# webgl-widgets
+# webgl-widgets-legacy
 
 # intall Node.js
 # from command line:
